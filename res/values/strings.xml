@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smarter SMS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Functions">
+        <item >Alarm</item>
+        <item >Call Me</item>
+        <item >General</item>
+        <item >Find Him</item>
+    </string-array>
+     <string name="opneNoti">Opened Notification Drawer</string>
+      <string name="closeNoti">Closed Notification Drawer</string>
+    <string name="About">About Me</string>
+    <string name="my_link"><a href="venky177@gmail.com">venky177@gmail.com</a></string>
+</resources>
